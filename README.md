@@ -35,4 +35,3 @@ Ideal para quem está começando em Java.
 
 - Java 17+
 - Terminal/Console
-- IDE de sua preferência (Eclipse, IntelliJ, VS Code, etc.)
